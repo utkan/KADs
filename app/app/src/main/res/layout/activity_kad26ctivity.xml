@@ -5,6 +5,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Kad26ctivity">
+    tools:context=".kad26.Kad26ctivity">
 
 </android.support.constraint.ConstraintLayout>
